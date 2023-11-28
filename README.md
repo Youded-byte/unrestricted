@@ -1,4 +1,4 @@
-# Unrestriicted
+# Unrestricted
 
 This is a Weave mod that is designed to unrestrict your experience. Unrestricts the reach amount shown to you. Unrestricts your polling rate being warned about. Unrestricts mod usage on servers. Unrestricts staff mods. Unrestricts your texture packs.
 
