@@ -1,11 +1,9 @@
 {
-  "mixinConfigs": [
-    "examplemod.mixins.json"
-  ],
-  "entrypoints": [
-    "com.example.mod.ExampleMod"
-  ],
   "hooks": [
-    "com.example.mod.hook.MinecraftHook"
+    "me.youded.unrestricted.hooks.StaffEnableHook",
+    "me.youded.unrestricted.hooks.BlacklistEnableHook",
+    "me.youded.unrestricted.hooks.ReachUnrestrictHook",
+    "me.youded.unrestricted.hooks.PollingrateUnrestrictHook",
+    "me.youded.unrestricted.hooks.TexturePackUnrestrictHook"
   ]
 }
